@@ -36,7 +36,11 @@ public class Arithmetic {
         int num4 = 4;
 
         int divResult = num3 / num4;  //19/4 = 4.75
+         float divResult2 = (float) num3 / num4;  //19/4 = 4.75
+        
         System.out.println("19/4= "+divResult);
+        System.out.println("19/4= "+divResult2);
+        
         
     } //end main
 } //end class
