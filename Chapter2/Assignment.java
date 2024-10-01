@@ -15,8 +15,19 @@ public class Assignment {
         
         //Equality Operator == 
         //Checking for equality (comparison) 
+        // Does a equal to b 
+        // result will be true or false 
         System.out.println("Is A equal to B: "+ (a==b));
+        
+        //Assignment Operator = 
+        // Assigning the value of one variable
+        //to another variable
+        //Assigning the value of variable b to
+        //variable a 
+        // a = 10,  b =20 (initial values)
+        a = b;  //a = 20 
+        System.out.println("a's new value: "+ a);
         
         
     } //end main
-} //end class
+} //end class 
