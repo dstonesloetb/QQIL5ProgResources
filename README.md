@@ -42,3 +42,5 @@
 +[If Else Example](Chapter3/Else.java)
 
 +[Switch Example](Chapter3/Switch.java)
+
++[Switch On Day Example](Chapter3/SwitchOnDay.java)
