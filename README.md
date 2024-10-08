@@ -1,7 +1,7 @@
 # Programming Class Resources
 
 ## Download and unzip [myjava.7z](MyJava.7z) to access all the code examples for the official course book
-#### Click on view Raw Files to start download for myjava.7z. See individual chapters for class examples
+#### Click on VIEW RAW link to start download for myjava.7z. See individual chapters for class examples
 
 
 ## Chapter 1
