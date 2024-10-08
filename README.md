@@ -37,8 +37,8 @@
 
 ## Chapter 3
 
-+[If Example](Chapter 3/If.java)
++[If Example](Chapter3/If.java)
 
-+[If Else Example](Chapter 3/Else.java)
++[If Else Example](Chapter3/Else.java)
 
-+[Switch Example](Chapter 3/Switch.java)
++[Switch Example](Chapter3/Switch.java)
