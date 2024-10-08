@@ -44,3 +44,7 @@
 +[Switch Example](Chapter3/Switch.java)
 
 +[Switch On Day Example](Chapter3/SwitchOnDay.java)
+
++[Default Case](Chapter3/DefaultCase.java)
+
++[Do While Example 1](Chapter3/DoWhileExample1.java)
