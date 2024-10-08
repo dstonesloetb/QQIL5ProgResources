@@ -19,6 +19,8 @@
 
 ## Chapter 2
 
++[Arithmetic](Chapter2/Arithmetic.java)
+
 +[Assignment](Chapter2/Assignment.java)
 
 +[Relational Operators](Chapter2/Comparison.java)
