@@ -19,7 +19,24 @@
 
 ## Chapter 2
 
-+[Escaping Literals](EscapingLiterals.java)
++[Assignment](Chapter2/Assignment.java)
+
++[Relational Operators](Chapter2/Comparison.java)
+
++[Boolean Logic](Chapter2/AssessingLogic.java)
+
++[Cinema Logic Example](Chapter2/CinemaLogic.java)
+
++[House Alarm Logic Example](Chapter2/HouseAlarm.java)
+
++[Ternary Operator Example](Chapter2/TernaryOperator.java)
+
++[Operator Precedence](Chapter2/SettingPrecedence.java)
 
 ## Chapter 3
 
++[If Example](Chapter 3/If.java)
+
++[If Else Example](Chapter 3/Else.java)
+
++[Switch Example](Chapter 3/Switch.java)
