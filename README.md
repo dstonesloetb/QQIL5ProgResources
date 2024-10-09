@@ -48,3 +48,5 @@
 +[Default Case](Chapter3/DefaultCase.java)
 
 +[Do While Example 1](Chapter3/DoWhileExample1.java)
+
++[Do While Example 2](Chapter3/DoWhileExample2.java)
