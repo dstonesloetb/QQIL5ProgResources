@@ -50,3 +50,10 @@
 +[Do While Example 1](Chapter3/DoWhileExample1.java)
 
 +[Do While Example 2](Chapter3/DoWhileExample2.java)
+
+## Chapter 4
+
++[DataTypeCasting Example](Chapter3/DataTypeCasting.java)
+
+
+
