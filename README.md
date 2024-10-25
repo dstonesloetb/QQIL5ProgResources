@@ -53,6 +53,8 @@
 
 +[While Loop Example](Chapter3/WhileLoopExample.java)
 
++[For Loop Example](Chapter3/For.java)
+
 ## Chapter 4
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java)
