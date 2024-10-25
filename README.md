@@ -59,5 +59,10 @@
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java)
 
++[For Loop Array Example](Chapter4/JavaChapter4_ForLoopArrayExample.java)
+
+
+
+
 
 
