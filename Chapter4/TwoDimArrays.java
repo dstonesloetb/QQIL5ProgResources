@@ -1,4 +1,4 @@
-class 2DArrays {
+class TwoDimArrays {
   public static void main(String[] args) {
          
     //Create a two-dimensional array
