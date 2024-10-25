@@ -55,6 +55,8 @@
 
 +[For Loop Example](Chapter3/For.java)
 
++[Bank Charges Example](Chapter3/BankCharges.java)
+
 ## Chapter 4 - Arrays
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java)
