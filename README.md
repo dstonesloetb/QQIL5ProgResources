@@ -51,6 +51,8 @@
 
 +[Do While Example 2](Chapter3/DoWhileExample2.java)
 
++[While Loop Example](Chapter3/WhileLoopExample.java)
+
 ## Chapter 4
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java)
