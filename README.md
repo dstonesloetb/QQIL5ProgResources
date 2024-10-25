@@ -4,7 +4,7 @@
 #### Click on VIEW RAW link to start download for myjava.7z. See individual chapters for class examples
 
 
-## Chapter 1
+## Chapter 1 - Introduction
 +[Hello World Example](Chapter1/Hello.java)
 
 +[Declaring Variables](Chapter1/FirstVariable.java)
@@ -17,7 +17,7 @@
 
 
 
-## Chapter 2
+## Chapter 2 - Operators
 
 +[Arithmetic](Chapter2/Arithmetic.java)
 
@@ -35,7 +35,7 @@
 
 +[Operator Precedence](Chapter2/SettingPrecedence.java)
 
-## Chapter 3
+## Chapter 3 - Selection and Iteration
 
 +[If Example](Chapter3/If.java)
 
@@ -55,7 +55,7 @@
 
 +[For Loop Example](Chapter3/For.java)
 
-## Chapter 4
+## Chapter 4 - Arrays
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java)
 
@@ -68,7 +68,10 @@
 +[Try Catch Block Example](Chapter4/Exceptions.java)
 
 
+## Chapter 5 - Maths and String Class
 
+
++[String Length Example](Chapter5/StringLength.java)
 
 
 
