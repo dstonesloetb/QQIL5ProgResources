@@ -85,7 +85,7 @@ public class BankCharges {
             else if (savingBalance <=1000)      // saving rate 1
             {
                 //interest = savingBalance * 0.015
-    	        	interest = savingBalance *0.015f;
+    		interest = savingBalance *0.015f;
               
                 // System.out.println("S1 Test");
               	//updatedBalance = savingBalance + interest 
@@ -99,8 +99,8 @@ public class BankCharges {
             else                                // saving rate 2
             {
                 //interest = savingBalance * 0.05
-		            //updatedBalance = savingBalance + interest 
-		            interest = savingBalance *0.05f;
+		//updatedBalance = savingBalance + interest 
+		interest = savingBalance *0.05f;
                 //System.out.println("S2 Test");
                 updatedBalance = savingBalance + interest;
                 
@@ -109,7 +109,7 @@ public class BankCharges {
                 System.out.println("Interest is: " + interest);
                 System.out.println("New balance is: " + updatedBalance);
             }
-        }              // end of if 
+        } // end of outer if else
              
     }   // end of main method
     
