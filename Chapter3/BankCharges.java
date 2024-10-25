@@ -18,8 +18,8 @@ public class BankCharges {
         Scanner in = new Scanner(System.in);
         
         // Program header and user input account type        
-        System.out.println("UPDATE BANK BALANCE");
-        System.out.println("------------------------");
+        System.out.println("BANK BALANCE PROGRAM");
+        System.out.println("----------------------");
 
         
         System.out.println("Please enter account type");
