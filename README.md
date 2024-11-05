@@ -70,8 +70,9 @@
 +[Try Catch Block Example](Chapter4/Exceptions.java)
 
 
-## Chapter 5 - Maths and String Class
+## Chapter 5 - Libraries, Methods and Maths & String Class
 
++[4 Types of Java Methods In One File Example](Chapter5/JavaMethodsInOneFileExample.java)
 
 +[String Length Example](Chapter5/StringLength.java)
 
