@@ -1,3 +1,5 @@
+//Insert correct package name
+
 public class CalculateAreas {
 
     public static void main(String[] args) {
