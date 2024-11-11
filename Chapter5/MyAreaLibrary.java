@@ -8,6 +8,9 @@
  */
 public class MyAreaLibrary {
 
+    // This is a java class not a Java Main Class 
+    // *** No main method in our library file  ***
+
     //Method to calculate the area of a rectangle 
     //Reference: 
     
