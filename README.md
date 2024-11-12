@@ -74,7 +74,21 @@
 
 +[4 Types of Java Methods In One File Example](Chapter5/JavaMethodsInOneFileExample.java)
 
++[Calculate Areas Library Example](Chapter5/CalculateAreas.java)
+
++[Print Characters String Example](Chapter5/PrintCharacters.java)
+
++[Character Swap Example](Chapter5/CharacterSwap.java)
+
 +[String Length Example](Chapter5/StringLength.java)
+
++[Math.PI Example](Chapter5/PI.java)
+
++[Rounding Numbers Example](Chapter5/Round.java)
+
++[Random Numbers Example](Chapter5/Random.java)
+
+
 
 
 
