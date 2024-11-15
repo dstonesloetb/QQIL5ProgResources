@@ -80,6 +80,8 @@
 
 +[Character Swap Example](Chapter5/CharacterSwap.java)
 
++[String Comparison Example](Chapter5/StringComparison.java)
+
 +[String Length Example](Chapter5/StringLength.java)
 
 +[Math.PI Example](Chapter5/PI.java)
