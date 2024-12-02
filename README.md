@@ -90,9 +90,7 @@
 
 +[Random Numbers Example](Chapter5/Random.java)
 
-
-
-
++[Random Daily Quote Generator Example](Chapter5/RandomDailyQuoteGenerator.java)
 
 
 
