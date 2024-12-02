@@ -89,11 +89,15 @@
 
 +[Math.PI Example](Chapter5/PI.java)
 
++[Pow Example](Chapter5/Pow.java)
+
 +[Rounding Numbers Example](Chapter5/Round.java)
 
 +[Random Numbers Example](Chapter5/Random.java)
 
 +[Random Daily Quote Generator Example](Chapter5/RandomDailyQuoteGenerator.java)
+
++[Lottery Number Generator Example](Chapter5/Lottery.java)
 
 
 
