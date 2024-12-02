@@ -69,6 +69,9 @@
 
 +[Try Catch Block Example](Chapter4/Exceptions.java)
 
++[ArrayList Example](Chapter4/ArrayListExample.java)
+
+
 
 ## Chapter 5 - Libraries, Methods and Maths & String Class
 
