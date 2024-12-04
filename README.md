@@ -11,85 +11,22 @@
 
 ## Chapter 2 - Operators
 
-+[Arithmetic](Chapter2/Arithmetic.java)
-
-+[Assignment](Chapter2/Assignment.java)
-
-+[Relational Operators](Chapter2/Comparison.java)
-
-+[Boolean Logic](Chapter2/AssessingLogic.java)
-
-+[Cinema Logic Example](Chapter2/CinemaLogic.java)
-
-+[House Alarm Logic Example](Chapter2/HouseAlarm.java)
-
-+[Ternary Operator Example](Chapter2/TernaryOperator.java)
-
-+[Operator Precedence](Chapter2/SettingPrecedence.java)
++[Arithmetic](Chapter2/Arithmetic.java) | +[Assignment](Chapter2/Assignment.java) | +[Relational Operators](Chapter2/Comparison.java) | +[Boolean Logic](Chapter2/AssessingLogic.java) | +[Cinema Logic Example](Chapter2/CinemaLogic.java) | +[House Alarm Logic Example](Chapter2/HouseAlarm.java) | +[Ternary Operator Example](Chapter2/TernaryOperator.java) | +[Operator Precedence](Chapter2/SettingPrecedence.java)
 
 ## Chapter 3 - Selection and Iteration
 
-+[If Example](Chapter3/If.java)
-
-+[If Else Example](Chapter3/Else.java)
-
-+[Switch Example](Chapter3/Switch.java)
-
-+[Switch On Day Example](Chapter3/SwitchOnDay.java)
-
-+[Default Case](Chapter3/DefaultCase.java)
-
-+[Do While Example 1](Chapter3/DoWhileExample1.java)
-
-+[Do While Example 2](Chapter3/DoWhileExample2.java)
-
-+[While Loop Example](Chapter3/WhileLoopExample.java)
-
-+[For Loop Example](Chapter3/For.java)
-
-+[Bank Charges Example](Chapter3/BankCharges.java)
++[If Example](Chapter3/If.java) | +[If Else Example](Chapter3/Else.java) | +[Switch Example](Chapter3/Switch.java) | 
++[Switch On Day Example](Chapter3/SwitchOnDay.java) | +[Default Case](Chapter3/DefaultCase.java) | +[Do While Example 1](Chapter3/DoWhileExample1.java) | +[Do While Example 2](Chapter3/DoWhileExample2.java) | +[While Loop Example](Chapter3/WhileLoopExample.java) | +[For Loop Example](Chapter3/For.java) | +[Bank Charges Example](Chapter3/BankCharges.java)
 
 ## Chapter 4 - Arrays
 
-+[DataTypeCasting Example](Chapter4/DataTypeCasting.java)
-
-+[Array Example](Chapter4/ArrayExample.java)
-
-+[For Loop Array Example](Chapter4/JavaChapter4_ForLoopArrayExample.java)
-
-+[2 Dimensional Array Example](Chapter4/TwoDimArrays.java)
-
-+[Try Catch Block Example](Chapter4/Exceptions.java)
-
-+[ArrayList Example](Chapter4/ArrayListExample.java)
++[DataTypeCasting Example](Chapter4/DataTypeCasting.java) | +[Array Example](Chapter4/ArrayExample.java) | +[For Loop Array Example](Chapter4/JavaChapter4_ForLoopArrayExample.java) | +[2 Dimensional Array Example](Chapter4/TwoDimArrays.java) | +[Try Catch Block Example](Chapter4/Exceptions.java) | +[ArrayList Example](Chapter4/ArrayListExample.java)
 
 
 
 ## Chapter 5 - Libraries, Methods and Maths & String Class
 
-+[4 Types of Java Methods In One File Example](Chapter5/JavaMethodsInOneFileExample.java)
-
-+[Calculate Areas Library Example](Chapter5/CalculateAreas.java)
-
-+[Print Characters String Example](Chapter5/PrintCharacters.java)
-
-+[Character Swap Example](Chapter5/CharacterSwap.java)
-
-+[String Comparison Example](Chapter5/StringComparison.java)
-
-+[String Length Example](Chapter5/StringLength.java)
-
-+[Math.PI Example](Chapter5/PI.java)
-
-+[Pow Example](Chapter5/Pow.java)
-
-+[Rounding Numbers Example](Chapter5/Round.java)
-
-+[Random Numbers Example](Chapter5/Random.java)
-
-+[Random Daily Quote Generator Example](Chapter5/RandomDailyQuoteGenerator.java)
-
-+[Lottery Number Generator Example](Chapter5/Lottery.java)
++[4 Types of Java Methods In One File Example](Chapter5/JavaMethodsInOneFileExample.java) | +[Calculate Areas Library Example](Chapter5/CalculateAreas.java) | +[Print Characters String Example](Chapter5/PrintCharacters.java) | +[Character Swap Example](Chapter5/CharacterSwap.java) | +[String Comparison Example](Chapter5/StringComparison.java) | +[String Length Example](Chapter5/StringLength.java) | +[Math.PI Example](Chapter5/PI.java) | +[Pow Example](Chapter5/Pow.java) | +[Rounding Numbers Example](Chapter5/Round.java) | +[Random Numbers Example](Chapter5/Random.java) | +[Random Daily Quote Generator Example](Chapter5/RandomDailyQuoteGenerator.java) | +[Lottery Number Generator Example](Chapter5/Lottery.java)
 
 
 
