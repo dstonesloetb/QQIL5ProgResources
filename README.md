@@ -5,9 +5,7 @@
 
 
 ## Chapter 1 - Introduction
-+[Hello World Example](Chapter1/Hello.java)
-
-+[Declaring Variables](Chapter1/FirstVariable.java)
++[Hello World Example](Chapter1/Hello.java) | +[Declaring Variables](Chapter1/FirstVariable.java)
 
 +[Different Data Types](Chapter1/DataTypes.java)
 
