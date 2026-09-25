@@ -13,6 +13,11 @@
 
 +[Arithmetic](Chapter2/Arithmetic.java) | +[Assignment](Chapter2/Assignment.java) | +[Relational Operators](Chapter2/Comparison.java) | +[Boolean Logic](Chapter2/AssessingLogic.java) | +[Cinema Logic Example](Chapter2/CinemaLogic.java) | +[House Alarm Logic Example](Chapter2/HouseAlarm.java) | +[Ternary Operator Example](Chapter2/TernaryOperator.java) | +[Operator Precedence](Chapter2/SettingPrecedence.java)
 
+
+## Chapter 2 - Exercises
+
++[Coffee Shop Bill](CoffeeShopBill.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) 
+
 ## Chapter 3 - Selection and Iteration
 
 +[If Example](Chapter3/If.java) | +[If Else Example](Chapter3/Else.java) | +[Switch Example](Chapter3/Switch.java) | 
