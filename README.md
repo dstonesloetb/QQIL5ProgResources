@@ -16,7 +16,7 @@
 
 ## Chapter 2 - Exercises
 
-+[Coffee Shop Bill](CoffeeShopBill.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) 
++[Coffee Shop Bill](CoffeeShopBill.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) |  + [Amusement Park Guard](AmusementParkGuard.java)
 
 ## Chapter 3 - Selection and Iteration
 
