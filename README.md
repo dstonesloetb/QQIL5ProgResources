@@ -26,7 +26,7 @@
 
 ## Chapter 3 - Exercises
 
-+[Sorting Hat](SortingHat.java) |  +[Haunted Roller Coaster](HauntedRollerCoaster.java) |  +[Spaceship Warp Drive](SpaceshipWarpDrive.java) |  + [Arcade Prize](ArcadePrize.java)
++[Sorting Hat](SortingHat.java) |  +[Haunted Roller Coaster](HauntedRollerCoaster.java) |  +[Spaceship Warp Drive](SpaceshipWarpDrive.java) |  + [Arcade Prize](ArcadePrize.java)  |   + [Galaxy Trader](GalaxyTrader.java)  |   + [Boss Raid](BossRaid.java)  |   + [Hacker Terminal](HackerTerminal.java) 
 
 ## Chapter 4 - Arrays
 
