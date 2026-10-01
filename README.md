@@ -26,7 +26,7 @@
 
 ## Chapter 3 - Exercises
 
-+[Sorting Hat](SortingHat.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) |  + [Amusement Park Guard](AmusementParkGuard.java)
++[Sorting Hat](SortingHat.java) |  +[Haunted Roller Coaster](HauntedRollerCoaster.java) |  +[Spaceship Warp Drive](SpaceshipWarpDrive.java) |  + [Arcade Prize](ArcadePrize.java)
 
 ## Chapter 4 - Arrays
 
