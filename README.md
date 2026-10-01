@@ -23,6 +23,11 @@
 +[If Example](Chapter3/If.java) | +[If Else Example](Chapter3/Else.java) | +[Switch Example](Chapter3/Switch.java) | 
 +[Switch On Day Example](Chapter3/SwitchOnDay.java) | +[Default Case](Chapter3/DefaultCase.java) | +[Do While Example 1](Chapter3/DoWhileExample1.java) | +[Do While Example 2](Chapter3/DoWhileExample2.java) | +[While Loop Example](Chapter3/WhileLoopExample.java) | +[For Loop Example](Chapter3/For.java) | +[Bank Charges Example](Chapter3/BankCharges.java)
 
+
+## Chapter 3 - Exercises
+
++[Coffee Shop Bill](CoffeeShopBill.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) |  + [Amusement Park Guard](AmusementParkGuard.java)
+
 ## Chapter 4 - Arrays
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java) | +[Array Example](Chapter4/ArrayExample.java) | +[For Loop Array Example](Chapter4/JavaChapter4_ForLoopArrayExample.java) | +[2 Dimensional Array Example](Chapter4/TwoDimArrays.java) | +[Try Catch Block Example](Chapter4/Exceptions.java) | +[ArrayList Example](Chapter4/ArrayListExample.java)
