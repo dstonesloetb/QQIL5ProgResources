@@ -26,7 +26,7 @@
 
 ## Chapter 3 - Exercises
 
-+[Coffee Shop Bill](CoffeeShopBill.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) |  + [Amusement Park Guard](AmusementParkGuard.java)
++[Sorting Hat](SortingHat.java) |  +[Cinema Trip](CinemaTrip.java) |  +[Pizza Party](PizzaParty.java) |  + [Amusement Park Guard](AmusementParkGuard.java)
 
 ## Chapter 4 - Arrays
 
