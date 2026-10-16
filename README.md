@@ -35,6 +35,9 @@
 
 
 ## Chapter 5 - Libraries, Methods and Maths & String Class
++[Ferris Wheel Math.PI](FerrisWheel.java) |
++[Pizza Calculator Math.pow()](PizzaCalculator.java) |
++[Magic Ball Math.random()](MagicBall.java) |
 
 +[4 Types of Java Methods In One File Example](Chapter5/JavaMethodsInOneFileExample.java) | +[Calculate Areas Library Example](Chapter5/CalculateAreas.java) | +[Print Characters String Example](Chapter5/PrintCharacters.java) | +[Character Swap Example](Chapter5/CharacterSwap.java) | +[String Comparison Example](Chapter5/StringComparison.java) | +[String Length Example](Chapter5/StringLength.java) | +[Math.PI Example](Chapter5/PI.java) | +[Pow Example](Chapter5/Pow.java) | +[Rounding Numbers Example](Chapter5/Round.java) | +[Random Numbers Example](Chapter5/Random.java) | +[Random Daily Quote Generator Example](Chapter5/RandomDailyQuoteGenerator.java) | +[Lottery Number Generator Example](Chapter5/Lottery.java)
 
