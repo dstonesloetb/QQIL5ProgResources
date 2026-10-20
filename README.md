@@ -30,6 +30,8 @@
 
 ## Chapter 4 - Arrays
 
++[1D Array Game Inventory](GameInventory.java) | +[2D Array Retro Game Map](RetroMap.java) |    +[Random Array Selector](FortuneCookie.java) |
+
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java) | +[Array Example](Chapter4/ArrayExample.java) | +[For Loop Array Example](Chapter4/JavaChapter4_ForLoopArrayExample.java) | +[2 Dimensional Array Example](Chapter4/TwoDimArrays.java) | +[Try Catch Block Example](Chapter4/Exceptions.java) | +[ArrayList Example](Chapter4/ArrayListExample.java)
 
 
