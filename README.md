@@ -34,7 +34,9 @@
 
 +[DataTypeCasting Example](Chapter4/DataTypeCasting.java) | +[Array Example](Chapter4/ArrayExample.java) | +[For Loop Array Example](Chapter4/JavaChapter4_ForLoopArrayExample.java) | +[2 Dimensional Array Example](Chapter4/TwoDimArrays.java) | +[Try Catch Block Example](Chapter4/Exceptions.java) | +[ArrayList Example](Chapter4/ArrayListExample.java)
 
+## Chapter 4 - Exercises
 
++[Zombie Rations](ZombieRations.java) | 
 
 ## Chapter 5 - Libraries, Methods and Maths & String Class
 +[Ferris Wheel Math.PI](FerrisWheel.java) |
@@ -44,4 +46,6 @@
 +[4 Types of Java Methods In One File Example](Chapter5/JavaMethodsInOneFileExample.java) | +[Calculate Areas Library Example](Chapter5/CalculateAreas.java) | +[Print Characters String Example](Chapter5/PrintCharacters.java) | +[Character Swap Example](Chapter5/CharacterSwap.java) | +[String Comparison Example](Chapter5/StringComparison.java) | +[String Length Example](Chapter5/StringLength.java) | +[Math.PI Example](Chapter5/PI.java) | +[Pow Example](Chapter5/Pow.java) | +[Rounding Numbers Example](Chapter5/Round.java) | +[Random Numbers Example](Chapter5/Random.java) | +[Random Daily Quote Generator Example](Chapter5/RandomDailyQuoteGenerator.java) | +[Lottery Number Generator Example](Chapter5/Lottery.java)
 
 
+## Chapter 5 - Exercises
 
++[Fun Method Exercises](FunMethodExercises.java) | 
